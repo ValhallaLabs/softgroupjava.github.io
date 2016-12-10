@@ -1,0 +1,19 @@
+# Blog settings
+permalink: /blog/:title
+
+# My variables
+name: SG Java Team Wiki
+description: Java Team Wiki
+google_verification: null
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
